@@ -20,4 +20,6 @@ $ pip3 install -r requirements.txt
 ```
 ## Example of use
 
+```
 $ python3 -m unittest sephora.py
+```

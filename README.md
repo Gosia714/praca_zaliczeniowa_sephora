@@ -1,5 +1,5 @@
 # Test aplikacji webowej - Praca podyplomowa - WSB
-Test aplikacji webowej SEPHORA - WSB
+SEPHORA Unittest - WSB
 ## Table of contents
 * [General info]
 * [Technologies]

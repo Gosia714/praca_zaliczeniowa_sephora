@@ -4,7 +4,8 @@ Test aplikacji webowej SEPHORA - WSB
 * [General info]
 * [Technologies]
 * [Setup]
-* [Example of use]## General info
+* [Example of use]
+## General info
 This project test SEPHORA site.
 ## Technologies
 Project is created with Python and unittest. 

@@ -16,7 +16,6 @@ $ cd praca_zaliczeniowa_sephora
 $ python3 -m venv env
 $ source env/bin/activate
 $ pip3 install -r requirements.txt
-$ python3 -m unittest sephora.py
 ```
 ## Example of use
 
